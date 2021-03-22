@@ -1,19 +1,31 @@
-h1{
+h1 {
+    color: white;
     border: 3px, solid #001a20;
+    background: #002730;
+    padding: 40px;
+    margin-top: 0;
+    border-top: 2px, solid #00b7e4;
+    color: white;
+    text-align: left;
 }
 
+#FirstSloganLine{
+    margin-bottom: 0;
+}
+#SecondSloganLine{
+    margin-top: 3%;
+    font-size: 70%;
+}
 body{
     background: #006994;    
 }
-
 nav
 {
     border: 3%, solid #003441;
     background: #003a49;
        
     padding: 0.5%; 
-    font-family: monospace;
-  
+    font-family: monospace; 
 }
 nav ul
 {
@@ -30,6 +42,9 @@ nav ul li
     margin: 15px;
     
 }
+nav ul li a:hover{
+    color: cyan;
+}
 #PageNameNavigation{
     font-size: 1.1em;
     color: #f2fcff;
@@ -38,10 +53,21 @@ nav ul li
     font-size: 145%
 }
 #Headerslogan{
-    border: 3px, solid red;
+    border: 3px, solid white;
 }
 nav ul li a
 {
     color: white;
     text-decoration: none;
+}
+#StoriesHomePage{
+   background-color: #06cdff ;
+    text-decoration: underline;
+    float: left;
+    width: 20%;
+     padding: 15px;
+    margin: 5px;
+    border: 3px solid black;
+    border-radius: 10px;
+    
 }
