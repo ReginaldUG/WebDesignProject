@@ -1,0 +1,47 @@
+h1{
+    border: 3px, solid #001a20;
+}
+
+body{
+    background: #006994;    
+}
+
+nav
+{
+    border: 3%, solid #003441;
+    background: #003a49;
+       
+    padding: 0.5%; 
+    font-family: monospace;
+  
+}
+nav ul
+{
+    text-align: left;
+    font-size: 1.3em;
+}
+nav ul li
+{
+      text-decoration: underline;
+    list-style-type: none;
+    
+    display: inline;
+     padding: 5px;
+    margin: 15px;
+    
+}
+#PageNameNavigation{
+    font-size: 1.1em;
+    color: #f2fcff;
+    font-family: serif;
+    text-decoration: none;
+    font-size: 145%
+}
+#Headerslogan{
+    border: 3px, solid red;
+}
+nav ul li a
+{
+    color: white;
+    text-decoration: none;
+}
