@@ -46,3 +46,19 @@ nav ul li a
     color: white;
     text-decoration: none;
 }
+#FirstSloganLine{
+    font-size: 1.5em;
+    margin-bottom: 15px;
+    margin-top: 5px;
+}
+#SecondSloganLine{
+    font-family: serif;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#ThirdSlogan{
+    color:aquamarine;
+    font-size: 15px;
+    margin-top: 0;
+    font-family: monospace;
+}
