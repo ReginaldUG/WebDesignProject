@@ -50,7 +50,7 @@ nav ul li a:hover{
     color: #f2fcff;
     font-family: serif;
     text-decoration: none;
-    font-size: 145%
+    font-size: 145%;
 }
 #Headerslogan{
     border: 3px, solid white;
@@ -71,3 +71,36 @@ nav ul li a
     border-radius: 10px;
     
 }
+section{
+    margin-top: 2px;    
+    color: white;
+    width: 70%;
+    float: right;
+}
+table caption{
+    font-size: 1.5em;
+    padding-bottom: 15px;
+}
+table
+{
+    width: 100%;
+    font-size: 20px;
+}
+th, tr, td
+{
+   
+    text-align: left;
+}
+
+#TableMessage{
+    margin: 0;   
+}
+#TableLink{
+    font-size: 1.1em;
+    color: red;
+    font-family: serif;
+    text-decoration: underline;
+    
+    
+}
+
