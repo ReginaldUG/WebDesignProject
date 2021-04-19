@@ -1,0 +1,93 @@
+#storieslayout h1{
+    margin-left: 3px;
+    margin-right: 3px;
+    border-bottom: 3px solid #dddddd;
+}
+#storieslayout{
+   margin-left: 10%;
+    margin-right: 10%; 
+}
+#storieslayout h4{
+    font-size: 0.9em;
+    color: #2554C7;
+}
+.HeadLines{
+    border-bottom: 2px solid #dddddd;
+}
+.StoryLook{
+    margin-bottom: 1.5%;
+    margin-top: 1.5%;
+  
+}
+.StoryLook h3{
+    padding:30px;
+    padding-left: 25%;
+    text-align: justify;
+    font-size: 1.4em;
+    color: #2554C7;
+}
+.StoryLook h3 a{
+    text-decoration: none;
+    color: #357EC7; 
+}
+.StoryLook h3 a:hover{
+    text-decoration: underline;
+}
+.StoryLook2{
+    margin-bottom: 3.5%;
+    margin-top: 1.5%;
+}
+.StoryLook2 h3{
+    padding:30px;
+    padding-left: 25%;
+    text-align: justify;
+    font-size: 1.4em;
+    color: #2554C7;
+}
+.StoryLook2 h3 a{
+    text-decoration: none;
+    color: #357EC7;
+}
+.StoryLook2 h3 a:hover{
+    text-decoration: underline;
+}
+.ColumnHeads{
+    column-count: 2;
+    column-gap: 1%;
+}
+.ColumnHeads section{
+    margin: 10px;
+}
+.ColumnHeads section p a{
+    text-decoration: none;
+    color: #357EC7;
+}
+.ColumnHeads section p a:hover{
+    text-decoration: underline;
+}
+.ColumnHeads2{
+    column-count: 3;
+    column-gap: 1%;
+}
+.ColumnHeads2 section{
+    margin: 10px;
+    padding: 0;
+}
+.ColumnHeads2 #number2{
+    padding-top: 10px; 
+}
+.ColumnHeads2 section p a{
+    text-decoration: none;
+    color: #357EC7;
+}
+.ColumnHeads2 section p a:hover{
+    text-decoration: underline;
+}
+#storieslayout{
+    padding-bottom: 3%;
+    border-bottom: 2px solid #dddddd;
+}
+
+
+
+

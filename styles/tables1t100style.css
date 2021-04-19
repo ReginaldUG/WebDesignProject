@@ -1,0 +1,100 @@
+/*#2554C7*/
+/*#357EC7*/
+#RichTable h1{
+    margin-left: 18%;
+    margin-right: 18%;   
+    border: 0;
+}
+#RichTable h3{
+    color:#2554C7;
+      margin-left: 5%;
+    margin-right: 5%; 
+    padding-left: 7%;
+}
+#RichTable p{
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 7%;
+    font-weight: 400;
+    color: #357EC7;
+}
+
+#updateMessage{
+    font-size: 0.8em;
+    font-family: serif;
+    border-bottom: 3px solid #dddddd;
+    padding-bottom: 2%;
+}
+
+
+#BillionairesTable{
+     margin-left: 10%;
+    margin-right: 10%;
+}
+.content-table{
+    width: 100%;
+    align-items: center;
+    border-collapse: collapse;
+    column-width: 15px;
+    font-family: bold;    
+    font-size: 1.2em;
+    min-width: 400px;
+    overflow: hidden;
+    margin-bottom: 1%;
+}
+.content-table tr th{
+    
+    color: #2554C7;
+    font-family: monospace;
+    text-align: left;
+    font-weight: bold;
+    font-size: 0.9em;
+}
+.content-table th,
+.content-table td{
+    color: #357EC7;
+    padding: 12px 15px;
+}
+
+.content-table tr{
+    border-bottom: 1px solid #dddddd;
+}
+
+.content-table tbody tr:last-of-type{
+    border-bottom: 1px solid #009879;
+}
+.ImagesTable img{
+    width: 100px;  
+}
+.NextPrev{
+    margin-bottom: 10%;
+}
+.NextBtn{
+    float: right;
+    margin-right: 10%;
+    border-radius: 25px;
+    padding-top: 3px;
+    background-color: white;
+}
+.PreviousBtn {
+    float: left;
+     margin-left: 10%;
+    border-radius: 25px;
+    padding-top: 3px;
+    background-color: white;
+}
+.NextBtn img, .PreviousBtn img{
+    align-self: center;
+    width: 2em;
+    background-color: white;
+}
+.NextBtn:hover, .PreviousBtn:hover{
+    border-color: #009879;
+    cursor: pointer;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+    border: 3px solid #009879;   
+}
+
+
+
+

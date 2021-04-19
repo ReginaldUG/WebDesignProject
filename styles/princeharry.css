@@ -1,0 +1,67 @@
+.HeadArticle{
+    margin-left: 7%;
+    margin-right: 7%;
+}
+.HeadArticle h1{
+     border: 0;
+    margin: 0;
+    margin-top: 5%;
+    font-family: serif;
+    font-size: 3em;
+    text-align: left;
+}
+.HeadArticle #firstvideo{
+    margin-left: 9%;
+    margin-right: 9%;
+}
+.PublishInfo{
+    font-family: monospace;
+    font-size: 1em;
+    margin: 0;
+    margin-top: 2%;
+    margin-bottom: 1%;
+    color: grey;
+}
+.AuthorTopLine{
+    color: #357EC7;
+     margin: 0;
+    font-size: 0.8em;
+    padding-left: 2%;
+    
+}
+.AuthorTopLine2{
+    color: #357EC7;
+    margin: 0;
+     margin-bottom: 1%;
+    font-size: 0.8em;
+     padding-bottom: 1%;
+    padding-left: 2%;
+    border-bottom: 2px solid #dddddd;
+    
+}
+.ArticleContent{
+    color: #357EC7;
+    
+}
+.OriginalArticle{
+    color: #357EC7;
+}
+.VideosRegarding{
+    column-count: 3;
+    column-gap: 3%;
+    margin-top: 5%;
+    border-bottom: 2px solid #dddddd;
+}
+iframe{
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.VideosRegarding h2{
+    font-size: 1.0em;
+    color: #2554C7;
+}
+.ArticleContain{
+    border-bottom: 2px solid #dddddd;
+}
+
+
